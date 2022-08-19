@@ -7,8 +7,8 @@
   
 He's actually a good coffee machine most of the time, but there may be a few hidden Eastern Eggs lying around if you find yourself digging deeper into your order!
 
-To do:
-  add gui with pyqt
+### To do:
+  - add gui with pyqt
 
-Known bugs to be fixed:
-  cross out effect of text appearing behind text when Easter Egg menu is unlocked
+### Known bugs to be fixed:
+  - cross out effect of text appearing behind text when Easter Egg menu is unlocked
