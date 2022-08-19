@@ -12,3 +12,4 @@ He's actually a good coffee machine most of the time, but there may be a few hid
 
 ### Known bugs to be fixed:
   - cross out effect of text appearing behind text when Easter Egg menu is unlocked
+
